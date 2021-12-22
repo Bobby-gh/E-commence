@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "shopping_online",
-    "slug": "shopping_online",
+    "name": "planet-app",
+    "slug": "snack-f8934203-7cd2-436b-b54c-fd782cb94ae9",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "its a developing plant store"
   }
 }
